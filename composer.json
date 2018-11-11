@@ -1,0 +1,21 @@
+{
+  "name": "unforge/db-toolkit",
+  "description": "Db Toolkit",
+  "type": "library",
+  "homepage": "https://github.com/unforge/db-toolkit",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ronam Unstirred",
+      "email": "unforge.coder@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Unforge\\DbToolkit\\": "src/"
+    }
+  }
+}
